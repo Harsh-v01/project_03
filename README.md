@@ -1,3 +1,3 @@
  # Project 03
 
-This project is currently under development and includes a testing component to verify its functionality and quality.
+This project is currently under development which is based on testing part in software development domain. 

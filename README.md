@@ -1,8 +1,0 @@
-# WORKBOARD
-
-## PROJECT :
-## ABOUT :
-## TECH STACK :
-## PURPOSE :
-## ARCHITECTURE :
-## WORKING :
